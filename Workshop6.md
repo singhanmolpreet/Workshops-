@@ -9,4 +9,5 @@ Reference:
 # MEMBERS:- 
 - Manpreet
 - Rajpreet Kaur
-- Prabhjot Kaur 
+- Prabhjot Kaur
+- Annolpreet Singh
